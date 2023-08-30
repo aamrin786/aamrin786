@@ -1,3 +1,4 @@
+![logo](https://github.com/aamrin786/aamrin786/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aamrin Islam</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e478kxrqlpm46ou0361x6d6yd5htiunfo36svrec2gs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DacTyMe9DWaIOQgDmS-0R_47PVfCt3Lr/view?usp=sharing](https://drive.google.com/file/d/1DacTyMe9DWaIOQgDmS-0R_47PVfCt3Lr/view?usp=sharing)
 
-- ⚡ Fun fact **Softwares and Temples are much the same first we build then we pray😐**
+- ⚡ Fun fact **Softwares and Mosques are much the same first we build then we pray😐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
