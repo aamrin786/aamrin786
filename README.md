@@ -1,6 +1,6 @@
 ![logo](https://github.com/aamrin786/aamrin786/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aamrin Islam</h1>
-<h3 align="center">A passionate Computer Science Engineering Student from India</h3>
+<h3 align="center">A passionate Computer Science Engineering Student from India.Currently working in Fractal Analytics</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e478kxrqlpm46ou0361x6d6yd5htiunfo36svrec2gs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Android Devlopment and DSA**
+- 🌱 I’m currently learning **GEN AI**
 
 - 📫 How to reach me **aamrinislam0@gmail.com**
 
